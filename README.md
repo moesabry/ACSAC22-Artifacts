@@ -25,7 +25,8 @@ In order to run these files, Tamarin Automatic Prover must be installed (http://
 
 
 # Running the Experiment
-The experiment has three phases to be run in sequence: A. Create the required subdirectories.
+The experiment has three phases to be run in sequence: 
+A. Create the required subdirectories.
 B. Run the confidentiality experiment.
 C. Run the integrity experiment.
 D. Run the tree size experiment.
